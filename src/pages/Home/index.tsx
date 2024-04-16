@@ -22,7 +22,7 @@ export function Home() {
           />
 
           <datalist id="task-suggestions">
-            <option value="Adicionar" />
+            <option value="Desenvolver uma aplicação besta" />
             <option value="Desenvolver uma aplicação mobile" />
             <option value="Desenvolver uma aplicação web e mobile" />
           </datalist>
