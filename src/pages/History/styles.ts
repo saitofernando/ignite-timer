@@ -62,6 +62,7 @@ const STATUS_COLORS = {
 interface StatusProps {
   statusColor: keyof typeof STATUS_COLORS
 }
+
 export const Status = styled.span<StatusProps>`
   display: flex;
   align-items: center;
